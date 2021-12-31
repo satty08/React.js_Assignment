@@ -1,0 +1,12 @@
+.faqs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: Roobert, sans-serif;
+    margin: 50px;
+}
+
+.side{
+    margin: 120px;
+}

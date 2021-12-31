@@ -1,0 +1,23 @@
+.teamCard{
+    width: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background: #8360c3; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8360c3, #2ebf91); 
+    background: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+.dp{
+    max-width: 200px;
+    max-height: 200px;
+    margin: 10px;
+    border-radius: 99px;
+}
+
+.text{
+    text-align: center;
+    justify-items: center;
+}
